@@ -11,8 +11,8 @@ My current career focus is **help desk, desktop support, technical support, appl
 
 | Project | What it demonstrates | Evidence and scope |
 | --- | --- | --- |
-| [HomeLab — IT Infrastructure & Security](https://github.com/Ramez-Khalil/enterprise-it-cybersecurity-homelab) | Fortinet segmentation and firewall policies; Windows Server Active Directory; controlled SSH attack, hardening, detection, and retest | Self-directed, AI-guided lab work on owned equipment. [Read the SSH retest case study](https://github.com/Ramez-Khalil/enterprise-it-cybersecurity-homelab/blob/main/docs/ssh-hardening-and-retest.md). |
-| [SQL Database Coursework](https://github.com/Ramez-Khalil/sql-database-project) | T-SQL queries covering filtering, joins, aggregation, subqueries, and data manipulation | [View the actual query file](https://github.com/Ramez-Khalil/sql-database-project/blob/main/queries.sql). Coursework, not a production database. |
+| [HomeLab — IT Infrastructure & Security](https://github.com/Ramez-Khalil/enterprise-it-cybersecurity-homelab) | Fortinet segmentation and firewall policies; Windows Server Active Directory; controlled SSH attack, hardening, detection, and retest | Self-directed HomeLab work on owned equipment. [Read the SSH retest case study](https://github.com/Ramez-Khalil/enterprise-it-cybersecurity-homelab/blob/main/docs/ssh-hardening-and-retest.md). |
+| [SQL Database Coursework](https://github.com/Ramez-Khalil/sql-database-project) | T-SQL queries covering filtering, joins, aggregation, subqueries, and data manipulation | [View the actual query file](https://github.com/Ramez-Khalil/sql-database-project/blob/main/queries.sql). Academic database coursework. |
 
 Other academic project summaries are being reviewed against original files and screenshots before being presented as runnable applications.
 
@@ -22,13 +22,13 @@ Other academic project summaries are being reviewed against original files and s
 
 **Academic coursework and projects:** SQL and relational design, Python, Java, C++, Power BI and Power Query, Tableau, Cisco Packet Tracer, TCP/IP fundamentals, and subnetting.
 
-**HomeLab practice (not production experience):** Windows Server 2025 Active Directory, basic Group Policy, NTFS/SMB access controls, VirtualBox, Fortinet VLAN/firewall configuration, and guided Linux SSH hardening.
+**HomeLab:** Windows Server 2025 Active Directory, basic Group Policy, NTFS/SMB access controls, VirtualBox, Fortinet VLAN/firewall configuration, Linux SSH hardening, fail2ban, and controlled security testing.
 
-**Training:** Completed *Cisco Networking Academy — CCNA: Introduction to Networks* (course completion, **not CCNA certification**). AWS Academy Cloud Foundations is training only; **no AWS certification is claimed**.
+**Training:** Cisco Networking Academy — *CCNA: Introduction to Networks* (course completion) · AWS Academy Cloud Foundations.
 
 ## How I document work
 
-I distinguish completed work from planned work, include validation where available, and record limitations and troubleshooting. HomeLab exercises use systems I own or am explicitly authorized to test. Documentation does not imply independent or professional administration of the technologies practiced in the lab.
+I distinguish completed work from planned work, include validation where available, and record meaningful limitations and troubleshooting. HomeLab exercises use systems I own or am explicitly authorized to test.
 
 ## Connect
 
